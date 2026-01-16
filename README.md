@@ -26,4 +26,7 @@ tinyraw_image* img = tinyraw_load(
     3,
     TINYRAW_U8
 );
+yolo-test
+yolo-test
 test yolo
+ main
