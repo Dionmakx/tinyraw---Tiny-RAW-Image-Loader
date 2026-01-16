@@ -25,9 +25,4 @@ tinyraw_image* img = tinyraw_load(
     768,
     3,
     TINYRAW_U8
-);
-yolo-test
-yolo-test
-test yolo
  main
-pull shark test
